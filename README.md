@@ -1,1 +1,1 @@
-# SAPIC (Simple Audio Player In C)
+# SAPIC (Simple Audio Player in C)
